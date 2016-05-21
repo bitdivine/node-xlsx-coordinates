@@ -1,5 +1,5 @@
 {
-  "name": "node-xlsx-coordinates",
+  "name": "xlsx-coordinates",
   "version": "1.0.0",
   "description": "Parse Excel coordinates",
   "main": "index.js",
